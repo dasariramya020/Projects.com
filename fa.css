@@ -14,9 +14,9 @@ background-color:rgb(95, 189, 100);
 }
 
 ul{
-    margin-top: 100px;
+    margin-top: 50px;
     font-size: 20px;
-    margin-left: 100px;
+   
 }
 @media only screen and (max-width:700px){
 body
@@ -30,7 +30,6 @@ body
 ul{
     margin-top: 100px;
     font-size: 20px;
-    margin-left: 100px;
 }
 
 }
